@@ -21,8 +21,6 @@ or if you prefer the code [Github repositories](https://github.com/inverseconnec
 
 # MY PROFILE
 
-![image](https://2.bp.blogspot.com/-jQl5yVSk0Y8/YkWz6rBI0II/AAAAAAAAAEtc/2Tocsh3XI8MPBDKfbARwBphiMqIBqjhlQCK4BGAYYCw/s120-pf/conexion.PNG)
-
 I have worked in important companies as a consultant specialized in Incident Response, Honeynets, intrusion detection, honeynets and pen-testing. I have implemented ISO 27001, CMMI (level 5), PCI-DSS standards and various security methodologies, especially in the banking sector for more than ten years.
 
 * `--->` -I also collaborate on Incident Response, security and computer forensics with various organizations and with state security forces and companies and foreign agencies.
