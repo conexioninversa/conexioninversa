@@ -29,7 +29,7 @@ I have worked in important companies as a consultant specialized in Incident Res
 
 * `--->` -I have participated in the LookShields conference organized by the Ministry of Defense. I also have Nato Secret clearance.
 
-* `--->` -I have worked in the Red Team and Blue Team area of ​​Bitdefender analyzing malware and persistent attacks for more than four years.
+* `--->` -I have worked in the RedTeam and BlueTeam area of ​​Bitdefender analyzing malware and persistent attacks for more than four years.
 
 * `--->` -I am the founder of the blog Inverse Connection and Professor of the INCIBE Summer BootCamp.
 
