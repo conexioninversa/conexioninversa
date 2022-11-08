@@ -1,6 +1,6 @@
 ![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnPXJZlhWUd7pquqNjxeKQW2wtNoNOjPZ5Bwz4hxXnNfC_dlCGvM5Yuuj-QLboA7egPq_nEKQYEvgutj5xjTgjfjDErd-6vfOgGGTiQ6UrQPpmH1XW5pAr_pEz9R5toJCbqGYzNxk0imTyT5CUsvfuADEkd6KangETdRXeAcPfyVpnCTMKLzo8fnTrOA/w165-h172/fotopedro.JPG)
 
-# Welcome to the new CONEXION INVERSA site!
+# Welcome to CONEXION INVERSA!
 
 I am Pedro Sánchez Cordero, author of conexioninversa.
 
