@@ -2,7 +2,7 @@
 
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="pedrosanchezcordero" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/pedrosanchezcordero?trk=profile-badge">LINKEDIN: Pedro Sánchez Cordero</a></div>
               
-# Welcome to CONEXION INVERSA!
+# Welcome to CONEXIONINVERSA!
 
 I am Pedro Sánchez Cordero, author of conexioninversa.
 
